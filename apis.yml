@@ -1,0 +1,75 @@
+aid: transfix
+name: Transfix
+description: >-
+  Transfix is a New York-based freight technology company that, since
+  divesting its brokerage operation to NFI Industries in June 2024,
+  operates as a SaaS and data company providing AI-powered Transportation
+  Management System (TMS) software to freight brokers, third-party
+  logistics providers (3PLs), shippers, and carriers across the United
+  States. The Transfix TMS unifies pricing, planning, execution, and
+  billing in a single platform, with feature areas covering Smart
+  Pricing and Quoting, RFP Management and Collaboration, Coverage and
+  Carrier Management, Streamlined Scheduling, Operations and Automation,
+  Invoicing and Payments, and Reporting and Insights. Core AI
+  capabilities include the Custom Rate Prediction Suite for spot and
+  contract pricing across Dry Van, Reefer, and Flatbed equipment, and
+  the RFP Workflow with a Smart Upload feature that structures bid data
+  from heterogeneous file formats. Transfix markets integrations with
+  existing TMS, carrier networks, and data sources, and references
+  freight API integrations in marketing material, but does not publish
+  a public developer portal, API reference, OpenAPI specification,
+  SDKs, or open-source repositories. NFI Industries is the platform's
+  anchor third-party customer following the brokerage divestiture.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Freight
+  - Freight Technology
+  - Freight Brokerage
+  - Transportation Management System
+  - TMS
+  - Logistics
+  - Trucking
+  - Supply Chain
+  - SaaS
+  - AI Pricing
+  - Rate Prediction
+  - RFP
+  - 3PL
+  - Shippers
+  - Carriers
+url: https://raw.githubusercontent.com/api-evangelist/transfix/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://transfix.io
+  - type: Solutions
+    url: https://transfix.io/solutions
+  - type: GetStarted
+    url: https://transfix.io/get-started
+  - type: Login
+    url: https://transfix.io/log-in
+  - type: Insights
+    url: https://transfix.io/insights
+  - type: FreightAPIIntegrations
+    url: https://transfix.io/insights/why-freight-api-integrations-are-the-key-to-scalable-pricing-and-coverage
+  - type: Press
+    url: https://transfix.io/press
+  - type: NFIAcquisitionAnnouncement
+    url: https://transfix.io/press/nfi-buys-brokerage-business-unit-of-transfix
+  - type: NextGenTMSLaunch
+    url: https://transfix.io/press/kl6a8bkqk0tzxfzzydgf7f351e29lb
+  - type: FAQ
+    url: https://transfix.io/faqs
+  - type: Support
+    url: mailto:support@transfix.io
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/transfix-inc-
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
