@@ -1,0 +1,14 @@
+{
+  "repo": "transfix",
+  "feeds": [
+    {
+      "source": "https://transfix.io/press",
+      "feed_url": "https://transfix.io/press?format=rss",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 4
+}
