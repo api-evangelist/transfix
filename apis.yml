@@ -21,9 +21,20 @@ description: >-
   SDKs, or open-source repositories. NFI Industries is the platform's
   anchor third-party customer following the brokerage divestiture.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/transfix.png
 tags:
   - Freight
   - Freight Technology
