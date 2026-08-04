@@ -2,6 +2,13 @@
   "repo": "transfix",
   "feeds": [
     {
+      "source": "https://transfix.io/press?format=rss",
+      "feed_url": "https://transfix.io/press?format=rss",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://transfix.io/press",
       "feed_url": "https://transfix.io/press?format=rss",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "fetched": "2026-07-11T11:50:51Z",
-  "post_count": 4
+  "fetched": "2026-08-01T15:49:00Z",
+  "post_count": 22
 }
