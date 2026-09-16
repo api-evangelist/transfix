@@ -9,6 +9,13 @@
       "method": "discovered"
     },
     {
+      "source": "https://transfix.io/press/atom.xml",
+      "feed_url": "https://transfix.io/press/atom.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://transfix.io/press?format=rss",
       "feed_url": "https://transfix.io/press?format=rss",
       "title": "",
@@ -16,7 +23,7 @@
       "method": "feed"
     }
   ],
-  "fetched": "2026-09-06T19:17:18Z",
+  "fetched": "2026-09-13T13:00:00Z",
   "post_count": 23,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
